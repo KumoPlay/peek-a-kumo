@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="290 522 360 194">
+  <rect x="300" y="546" width="340" height="166" rx="0" fill="#F7BFD0" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="318" y="572" width="92" height="116" rx="12" fill="#F2A9C0" stroke="#4A4178" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="424" y="572" width="92" height="116" rx="12" fill="#F2A9C0" stroke="#4A4178" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="530" y="572" width="92" height="116" rx="12" fill="#F2A9C0" stroke="#4A4178" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="364" cy="630" r="9" fill="#FFF4E4" stroke="#4A4178" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="470" cy="630" r="9" fill="#FFF4E4" stroke="#4A4178" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="576" cy="630" r="9" fill="#FFF4E4" stroke="#4A4178" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M300 546Q310 562 320 546Q330 562 340 546Q350 562 360 546Q370 562 380 546Q390 562 400 546Q410 562 420 546Q430 562 440 546Q450 562 460 546Q470 562 480 546Q490 562 500 546Q510 562 520 546Q530 562 540 546Q550 562 560 546Q570 562 580 546Q590 562 600 546Q610 562 620 546Q630 562 640 546Z" fill="#FFF8EE" stroke="#4A4178" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="292" y="526" width="356" height="20" rx="6" fill="#FFF8EE" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="350 96 300 378">
+  <path d="M368 404V200Q368 98 500 98Q632 98 632 200V404ZM380 404V200Q380 110 500 110Q620 110 620 200V404Z" fill="#FFF4E4" fill-rule="evenodd" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="495" y="110" width="10" height="294" rx="2" fill="#FFF4E4" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="380" y="250" width="240" height="10" rx="2" fill="#FFF4E4" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M404 170q24-34 66-44" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="356" y="404" width="288" height="66" rx="4" fill="#DDB48A" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M380 420v34M440 420v34M500 420v34M560 420v34M620 420v34" fill="none" stroke="#C99D72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="350" y="392" width="300" height="14" rx="4" fill="#E8CBA8" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,230 @@
+/**
+ * Every word the player can read, in English. To add a language, copy this
+ * file (for example to th.ts), translate the values, and register it in index.ts.
+ * Text in {curly braces} is filled in by the game; keep those words as they are.
+ *
+ * Scene names live in each scene file ("name"), so a new scene needs no change
+ * here. A translation can still rename a scene under `scenes`, by scene id.
+ */
+export const en = {
+  title: 'Peek-a-Kumo',
+  tagline: 'Find the hidden things in a little town on the clouds',
+  madeBy: 'Made by KumoPlay',
+  loading: 'Fluffing the clouds…',
+  close: 'Close',
+  back: 'Back',
+
+  /** Scene names by id, only when a translation wants to change the name in the scene file. */
+  scenes: {} as Record<string, string>,
+
+  difficulties: {
+    easy: 'Easy',
+    normal: 'Normal',
+    tricky: 'Tricky',
+  } as Record<string, string>,
+
+  difficultyHelp: {
+    easy: '6 big things',
+    normal: '9 things, a bit hidden',
+    tricky: '12 tiny things',
+  } as Record<string, string>,
+
+  /** The objects to find. Shown under the pictures in the list and read out by screen readers. */
+  objects: {
+    teacup: 'Teacup',
+    spoon: 'Spoon',
+    key: 'Key',
+    button: 'Button',
+    mitten: 'Mitten',
+    sock: 'Sock',
+    glasses: 'Glasses',
+    candle: 'Candle',
+    bell: 'Bell',
+    envelope: 'Letter',
+    umbrella: 'Umbrella',
+    'paper-boat': 'Paper Boat',
+    'rubber-duck': 'Duck',
+    'yarn-ball': 'Yarn',
+    paintbrush: 'Brush',
+    pencil: 'Pencil',
+    kite: 'Kite',
+    balloon: 'Balloon',
+    crown: 'Crown',
+    bow: 'Bow',
+    cupcake: 'Cupcake',
+    lollipop: 'Lollipop',
+    star: 'Star',
+    heart: 'Heart',
+    feather: 'Feather',
+    shell: 'Shell',
+    snail: 'Snail',
+    ladybug: 'Ladybug',
+    acorn: 'Acorn',
+    leaf: 'Leaf',
+    daisy: 'Flower',
+    mushroom: 'Mushroom',
+    cherry: 'Cherries',
+    strawberry: 'Strawberry',
+    cookie: 'Cookie',
+    donut: 'Donut',
+    carrot: 'Carrot',
+    magnifier: 'Magnifier',
+    'watering-can': 'Watering Can',
+    beret: 'Hat',
+  } as Record<string, string>,
+
+  home: {
+    play: 'Play',
+    continue: 'Continue',
+    found: '{found} of {total} found',
+    pickLevel: 'How tricky?',
+    locked: 'Finish the scene before to open this one',
+    trickyLocked: 'Finish once to open',
+    album: 'Sticker album',
+    settings: 'Settings',
+    stickers: '{n} of {total} stickers',
+  },
+
+  play: {
+    sceneLabel: '{scene}. Tap the things in the list when you find them.',
+    home: 'Home',
+    hint: 'Hint',
+    hintWait: 'Hint is filling up',
+    zoomIn: 'Zoom in',
+    zoomOut: 'Zoom out',
+    fit: 'Show the whole scene',
+    progress: '{found} of {total}',
+    list: 'Things to find',
+    foundIt: 'Found: {name}',
+    stillToFind: 'Still to find: {name}',
+    kumoSlot: 'A secret: Kumo is hiding somewhere',
+    kumoFound: 'You found Kumo!',
+    tipTouch: 'Pinch or double-tap to zoom. Drag to look around.',
+    tipMouse: 'Scroll to zoom. Drag to look around.',
+    gotIt: 'Got it',
+    menu: 'Menu',
+    soundOn: 'Sound on',
+    soundOff: 'Sound off',
+  },
+
+  menu: {
+    title: 'Menu',
+    keepPlaying: 'Keep looking',
+    startOver: 'New shuffle',
+    startOverTitle: 'Start this scene again?',
+    startOverText: 'You get a new list and new hiding places. What you found so far in this scene starts over.',
+    startOverYes: 'Start again',
+    home: 'Home',
+  },
+
+  finish: {
+    title: 'You found them all!',
+    kumoToo: 'And you found Kumo too!',
+    kumoHiding: 'Psst… Kumo is still peeking somewhere.',
+    keepLooking: 'Look for Kumo',
+    again: 'Play again',
+    home: 'Home',
+    newSticker: 'New sticker!',
+    kumoSticker: 'Kumo sticker!',
+  },
+
+  album: {
+    title: 'Sticker Album',
+    count: '{n} of {total}',
+    missing: 'Not found yet',
+    earned: 'Earned {date}',
+    howEasy: 'Finish {scene} on Easy',
+    howNormal: 'Finish {scene} on Normal',
+    howTricky: 'Finish {scene} on Tricky',
+    howKumo: 'Find Kumo in {scene}',
+  },
+
+  /** Sticker names under each sticker. */
+  stickerKinds: {
+    easy: 'Easy',
+    normal: 'Normal',
+    tricky: 'Tricky',
+    kumo: 'Kumo',
+  } as Record<string, string>,
+
+  settings: {
+    title: 'Settings',
+    soundTitle: 'Sound',
+    soundOn: 'Sounds are on',
+    soundOff: 'Sounds are off',
+    wordsTitle: 'Words in the list',
+    wordsHelp: 'The list always shows pictures. Words underneath help readers; turn them off for little ones.',
+    wordsOn: 'Words are shown',
+    wordsOff: 'Pictures only',
+    motion: 'Moving things follow your device’s “reduce motion” setting.',
+    installTitle: 'Home screen',
+    backupTitle: 'Backup',
+    backupHelp: 'Your scenes and stickers are saved on this device. A backup keeps them safe, or moves them to another device.',
+    copyCode: 'Copy backup code',
+    copied: 'Copied!',
+    copyFailed: 'Select the code below and copy it',
+    saveFile: 'Save backup file',
+    loadTitle: 'Load a backup',
+    loadHelp: 'Paste a backup code here, or pick a backup file.',
+    codePlaceholder: 'KUMO1…',
+    chooseFile: 'Pick a file',
+    load: 'Load backup',
+    loadConfirmTitle: 'Load this backup?',
+    loadConfirmText: 'It will replace the scenes and stickers on this device.',
+    loadYes: 'Load it',
+    badCode: 'That is not a Peek-a-Kumo backup code.',
+    otherGame: 'That backup code is from another KumoPlay game. Load it in that game instead.',
+    brokenCode: 'This code looks cut off or changed. Try copying it again.',
+    newerCode: 'This backup is from a newer Peek-a-Kumo. Reload the game to update, then try again.',
+    storageSafe: 'This browser will keep your game.',
+    storageMaybe: 'Some browsers clear saved games after a while without a visit. A backup keeps your stickers safe.',
+    storageBroken: 'This browser is not saving right now. Make a backup before you leave!',
+    resetTitle: 'Reset progress',
+    resetButton: 'Reset progress…',
+    resetConfirmTitle: 'Start over?',
+    resetConfirmText: 'All scenes, stickers and unfinished scenes on this device will be deleted. This cannot be undone.',
+    resetYes: 'Delete and start over',
+    keep: 'Keep my game',
+    cancel: 'Cancel',
+    version: 'Peek-a-Kumo {v}',
+    madeBy: 'A KumoPlay game',
+  },
+
+  install: {
+    why: 'Add Peek-a-Kumo to your home screen. It opens like an app, works without internet, and your stickers are kept safer there.',
+    ios: 'Tap the Share button in your browser, then “Add to Home Screen”.',
+    other: 'Open your browser menu, then pick “Install” or “Add to Home screen”.',
+    add: 'Add to home screen',
+    later: 'Not now',
+    ok: 'OK',
+    installed: 'Peek-a-Kumo is on your home screen.',
+  },
+
+  update: {
+    ready: 'A new version is ready',
+    reload: 'Update',
+  },
+
+  recover: {
+    title: 'Hmm, your saved game will not open',
+    corrupt: 'The save on this device looks damaged.',
+    tooNew: 'The save on this device is from a newer Peek-a-Kumo. Reload to get the update.',
+    reload: 'Reload',
+    startNew: 'Start fresh',
+    confirmTitle: 'Start fresh?',
+    confirmText: 'Your scenes and stickers on this device will be gone. This cannot be undone.',
+    confirmYes: 'Start fresh',
+    cancel: 'Keep it',
+  },
+
+  tabs: {
+    title: 'Peek-a-Kumo is open in another tab',
+    text: 'Your game is safe. Play in one tab at a time.',
+    here: 'Play here',
+  },
+
+  sceneError: 'This scene could not be set up. Please try again.',
+  tryAgain: 'Try again',
+};
+
+export type Strings = typeof en;

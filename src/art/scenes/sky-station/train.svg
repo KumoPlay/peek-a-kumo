@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="636 348 302 244">
+  <path d="M640 588V392Q640 352 680 352H934V588ZM658 480V408Q658 396 670 396H714Q726 396 726 408V480ZM758 480V408Q758 396 770 396H814Q826 396 826 408V480ZM858 480V408Q858 396 870 396H914Q926 396 926 408V480Z" fill="#BFDDF6" fill-rule="evenodd" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="640" y="520" width="294" height="16" rx="0" fill="#FFF4E4" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="662" cy="470" r="12" fill="#FFF4CC" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M650 488V392Q650 388 654 388H730Q734 388 734 392V488ZM658 480V408Q658 396 670 396H714Q726 396 726 408V480Z" fill="#FFF4E4" fill-rule="evenodd" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M666 416q8-10 20-12" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M750 488V392Q750 388 754 388H830Q834 388 834 392V488ZM758 480V408Q758 396 770 396H814Q826 396 826 408V480Z" fill="#FFF4E4" fill-rule="evenodd" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M766 416q8-10 20-12" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M850 488V392Q850 388 854 388H930Q934 388 934 392V488ZM858 480V408Q858 396 870 396H914Q926 396 926 408V480Z" fill="#FFF4E4" fill-rule="evenodd" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M866 416q8-10 20-12" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

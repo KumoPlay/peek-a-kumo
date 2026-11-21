@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="612 600 284 154">
+  <path d="M616 614Q616 604 626 604H882Q892 604 892 614V736Q880.5 750 869.0 736Q857.5 750 846.0 736Q834.5 750 823.0 736Q811.5 750 800.0 736Q788.5 750 777.0 736Q765.5 750 754.0 736Q742.5 750 731.0 736Q719.5 750 708.0 736Q696.5 750 685.0 736Q673.5 750 662.0 736Q650.5 750 639.0 736Q627.5 750 616.0 736Z" fill="#FFE9A8" />
+  <rect x="616.0" y="604.0" width="46.0" height="44.0" rx="0" fill="#F9C9DA" />
+  <rect x="662.0" y="604.0" width="46.0" height="44.0" rx="0" fill="#FFE9A8" />
+  <rect x="708.0" y="604.0" width="46.0" height="44.0" rx="0" fill="#CDEBD9" />
+  <rect x="754.0" y="604.0" width="46.0" height="44.0" rx="0" fill="#D3E6F9" />
+  <rect x="800.0" y="604.0" width="46.0" height="44.0" rx="0" fill="#E3D6F8" />
+  <rect x="846.0" y="604.0" width="46.0" height="44.0" rx="0" fill="#FFD9C4" />
+  <rect x="616.0" y="648.0" width="46.0" height="44.0" rx="0" fill="#CDEBD9" />
+  <rect x="662.0" y="648.0" width="46.0" height="44.0" rx="0" fill="#D3E6F9" />
+  <rect x="708.0" y="648.0" width="46.0" height="44.0" rx="0" fill="#E3D6F8" />
+  <rect x="754.0" y="648.0" width="46.0" height="44.0" rx="0" fill="#FFD9C4" />
+  <rect x="800.0" y="648.0" width="46.0" height="44.0" rx="0" fill="#F9C9DA" />
+  <rect x="846.0" y="648.0" width="46.0" height="44.0" rx="0" fill="#FFE9A8" />
+  <rect x="616.0" y="692.0" width="46.0" height="44.0" rx="0" fill="#E3D6F8" />
+  <rect x="662.0" y="692.0" width="46.0" height="44.0" rx="0" fill="#FFD9C4" />
+  <rect x="708.0" y="692.0" width="46.0" height="44.0" rx="0" fill="#F9C9DA" />
+  <rect x="754.0" y="692.0" width="46.0" height="44.0" rx="0" fill="#FFE9A8" />
+  <rect x="800.0" y="692.0" width="46.0" height="44.0" rx="0" fill="#CDEBD9" />
+  <rect x="846.0" y="692.0" width="46.0" height="44.0" rx="0" fill="#D3E6F9" />
+  <path d="M892 736Q880.5 750 869.0 736Q857.5 750 846.0 736Q834.5 750 823.0 736Q811.5 750 800.0 736Q788.5 750 777.0 736Q765.5 750 754.0 736Q742.5 750 731.0 736Q719.5 750 708.0 736Q696.5 750 685.0 736Q673.5 750 662.0 736Q650.5 750 639.0 736Q627.5 750 616.0 736Z" fill="#FFF4E4" />
+  <path d="M618 736H890" stroke="#F9C9DA" stroke-width="4"/>
+  <path d="M662.0 608V732M708.0 608V732M754.0 608V732M800.0 608V732M846.0 608V732M620 648.0H888M620 692.0H888" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-dasharray="6 5"/>
+  <path d="M616 614Q616 604 626 604H882Q892 604 892 614V736Q880.5 750 869.0 736Q857.5 750 846.0 736Q834.5 750 823.0 736Q811.5 750 800.0 736Q788.5 750 777.0 736Q765.5 750 754.0 736Q742.5 750 731.0 736Q719.5 750 708.0 736Q696.5 750 685.0 736Q673.5 750 662.0 736Q650.5 750 639.0 736Q627.5 750 616.0 736Z" fill="none" stroke="#4A4178" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
