@@ -6,7 +6,9 @@ A cozy hidden-object game in a little town on the clouds, made by KumoPlay. Look
 - No server, no accounts, no ads, no purchases, no links out, no data collection. Progress is saved in the player's own browser.
 - Cozy by design: no timer and no score. A wrong tap only gets a soft wobble. Hints are free and refill by themselves. The list is pictures first, with optional words, so children who cannot read yet can play.
 
-Play: <https://kumoplay.github.io/peek-a-kumo/> (once deployed)
+Play: <https://kumoplay.github.io/peek-a-kumo/>
+
+More KumoPlay games: [Kumo Farm](https://kumoplay.github.io/games/kumo-farm/), a cozy farm on a floating cloud island, and [Kumo Café](https://kumoplay.github.io/games/kumo-cafe/), a cozy café in the clouds. See them all at <https://kumoplay.github.io>.
 
 ## Run it
 
