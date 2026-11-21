@@ -8,7 +8,7 @@ A cozy hidden-object game in a little town on the clouds, made by KumoPlay. Look
 
 Play: <https://kumoplay.github.io/peek-a-kumo/>
 
-More KumoPlay games: [Kumo Farm](https://kumoplay.github.io/games/kumo-farm/), a cozy farm on a floating cloud island, and [Kumo Café](https://kumoplay.github.io/games/kumo-cafe/), a cozy café in the clouds. See them all at <https://kumoplay.github.io>.
+More KumoPlay games: [Bubble Pop](https://kumoplay.github.io/games/bubble-pop/), a cozy pocket fidget toy, [Kumo Farm](https://kumoplay.github.io/games/kumo-farm/), a cozy farm on a floating cloud island, and [Kumo Café](https://kumoplay.github.io/games/kumo-cafe/), a cozy café in the clouds. See them all at <https://kumoplay.github.io>.
 
 ## Run it
 
